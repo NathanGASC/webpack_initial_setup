@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "./src/controllers",
+    "module": "amd",
+    "removeComments": true,
+    "target": "es5",
+    "allowJs": true,
+    "moduleResolution": "node",
+    "rootDirs": ["./src/controllers"],
+    "esModuleInterop": true
+  },
+  "include": ["./src/controllers"],
+  "exclude": ["node_modules"]
+}
