@@ -9,6 +9,6 @@
     "rootDirs": ["./src/controllers"],
     "esModuleInterop": true
   },
-  "include": ["./src/controllers"],
+  "include": ["./src/controllers", "./src/types"],
   "exclude": ["node_modules"]
 }
